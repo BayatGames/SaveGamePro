@@ -17,7 +17,7 @@ Save everything, then load it back.
 ## Get it
 You can get it now from Unity Asset Store.
 
-Or Get it on itch.io.
+Or Get it on [itch.io](https://bayat.itch.io/save-game-pro-save-everything).
 
 ## Documentation
 Find online documentation at [Wiki](https://github.com/EmpireAssets/SaveGamePro/wiki).
