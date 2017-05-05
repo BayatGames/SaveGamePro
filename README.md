@@ -22,6 +22,8 @@ Or Get it on [itch.io](https://bayat.itch.io/save-game-pro-save-everything).
 ## Documentation
 Find online documentation at [Wiki](https://github.com/EmpireAssets/SaveGamePro/wiki).
 
+Or read more about it on [Google Docs](https://drive.google.com/open?id=1vMINzTsVU2uTM6rwsiy-v4gLbL4DfMfCKIFYyS25E18)
+
 ## Issues
 Improvements, Recommendations and Problems are welcome via:
 
