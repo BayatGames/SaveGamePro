@@ -15,7 +15,7 @@ Save everything, then load it back.
 - **Encryption**
 
 ## Get it
-You can get it now from Unity Asset Store.
+You can get it now from [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/89198).
 
 Or Get it on [itch.io](https://bayat.itch.io/save-game-pro-save-everything).
 
