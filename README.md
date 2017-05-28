@@ -1,7 +1,7 @@
 # Save Game Pro
 Save everything, then load it back.
 
-[![baner](https://cloud.githubusercontent.com/assets/18309454/25484161/1ecc7bb2-2b6e-11e7-8c8e-fd20348ef8cf.png)](https://github.com/EmpireAssets/SaveGamePro/)
+[![baner](https://cloud.githubusercontent.com/assets/18309454/26527763/eceb6554-43af-11e7-841e-02b2f63ca4db.png)](https://github.com/EmpireAssets/SaveGamePro/)
 
 ## Features
 - **Speed**
