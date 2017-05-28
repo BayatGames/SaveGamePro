@@ -8,6 +8,7 @@ Save everything, then load it back.
 - **Built-in Types** (includes most of unity type and system types)
 - **Custom Types**
 - **Security**
+- **Auto Save** (Added in 1.2.2)
 
 ## In Development Features
 - **Web**
