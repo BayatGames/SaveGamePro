@@ -5,7 +5,7 @@ Save everything, then load it back.
 
 ## Features
 - **Speed**
-- **Built-in Types** (includes most of unity type and system types)
+- [**Built-in Types**](https://github.com/EmpireAssets/SaveGamePro/wiki#supported-types) (includes most of unity type and system types)
 - **Custom Types**
 - **Security**
 - **Auto Save** (Added in 1.2.2)
