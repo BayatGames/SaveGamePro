@@ -16,9 +16,11 @@ Save everything, then load it back.
 - **Encryption**
 
 ## Get it
-You can get it now from [Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/89198).
+[:sparkles: Get it now from Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/89198).
 
-Or Get it on [itch.io](https://bayat.itch.io/save-game-pro-save-everything).
+Or
+
+[:rocket: Get it now from itch.io](https://bayat.itch.io/save-game-pro-save-everything).
 
 ## Documentation
 Find online documentation at [Wiki](https://github.com/EmpireAssets/SaveGamePro/wiki).
