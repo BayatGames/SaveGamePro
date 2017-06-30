@@ -15,6 +15,9 @@ Save everything, then load it back.
 - **Playmaker Integration**
 - **Encryption**
 
+## Examples
+Looking for eaxmples, [:book: Find them at WiKi](https://github.com/EmpireAssets/SaveGamePro/wiki/Examples)
+
 ## Get it
 [:sparkles: Get it now from Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/89198).
 
