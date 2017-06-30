@@ -30,7 +30,7 @@ Or
 
 Or
 
-[:document: Read more at Google Docs](https://drive.google.com/open?id=1vMINzTsVU2uTM6rwsiy-v4gLbL4DfMfCKIFYyS25E18)
+[:page_facing_up: Read more at Google Docs](https://drive.google.com/open?id=1vMINzTsVU2uTM6rwsiy-v4gLbL4DfMfCKIFYyS25E18)
 
 ## Issues
 Improvements, Recommendations and Problems are welcome via:
