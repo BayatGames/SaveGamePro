@@ -16,7 +16,7 @@ Save everything, then load it back.
 - **Encryption**
 
 ## Examples
-Looking for eaxmples, [:book: Find them at WiKi](https://github.com/EmpireAssets/SaveGamePro/wiki/Examples)
+[:book: Find them at WiKi](https://github.com/EmpireAssets/SaveGamePro/wiki/Examples)
 
 ## Get it
 [:sparkles: Get it now from Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/89198).
@@ -26,16 +26,18 @@ Or
 [:rocket: Get it now from itch.io](https://bayat.itch.io/save-game-pro-save-everything).
 
 ## Documentation
-Find online documentation at [Wiki](https://github.com/EmpireAssets/SaveGamePro/wiki).
+[:book: Find online documentation](https://github.com/EmpireAssets/SaveGamePro/wiki).
 
-Or read more about it on [Google Docs](https://drive.google.com/open?id=1vMINzTsVU2uTM6rwsiy-v4gLbL4DfMfCKIFYyS25E18)
+Or
+
+[:document: Read more at Google Docs](https://drive.google.com/open?id=1vMINzTsVU2uTM6rwsiy-v4gLbL4DfMfCKIFYyS25E18)
 
 ## Issues
 Improvements, Recommendations and Problems are welcome via:
 
-[Issue Tracker](https://github.com/EmpireAssets/SaveGamePro/issues)
+[:truck: Issue Tracker](https://github.com/EmpireAssets/SaveGamePro/issues)
 
-[Email](mailto:hasanbayat1393@gmail.com)
+[:e-mail: Email](mailto:hasanbayat1393@gmail.com)
 
 Thanks for reading.
 
