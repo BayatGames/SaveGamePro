@@ -39,27 +39,11 @@ Improvements, Recommendations and Problems are welcome via:
 
 [:e-mail: Email](mailto:hasanbayat1393@gmail.com)
 
-## Follow US
+## Resources
 
-[:notebook: Check out our development board](https://trello.com/bayatgames)
+[:rocket: Check out Save Game Free](https://github.com/BayatGames/SaveGameFree)
 
-[Medium Publication](https://medium.com/bayat-games)
-
-[Telegram Channel](https://t.me/BayatGamesOfficial)
-
-[Slack Team](https://bayatgames.slack.com)
-
-[Gitter Channel](https://gitter.im/BayatGames)
-
-[Twitter (Hasan Bayat)](https://www.twitter.com/EmpireWorld1393)
-
-[Google Group](https://groups.google.com/forum/#!forum/bayatgames)
-
-[Google+ Community](https://plus.google.com/communities/108974587311747022650)
-
-[Facebook Page](https://www.facebook.com/Bayat-Games-277386306024083)
-
-[:e-mail: Email us (hasanbayat1393@gmail.com)](mailto:hasanbayat1393@gmail.com)
+[:newspaper: Support and News](https://github.com/BayatGames/Support)
 
 ---
 
