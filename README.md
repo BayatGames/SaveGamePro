@@ -16,7 +16,7 @@ Save everything, then load it back.
 - **Encryption**
 
 ## Examples
-[:book: Find them at WiKi](https://github.com/BayatGames/wiki/Examples)
+[:book: Find them at WiKi](https://github.com/BayatGames/SaveGamePro/wiki/Examples)
 
 ## Get it
 [:sparkles: Get it now from Unity Asset Store](https://www.assetstore.unity3d.com/en/#!/content/89198).
