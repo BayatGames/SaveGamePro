@@ -23,6 +23,8 @@ Save Game Pro has an Elegant and Complete API for controlling saved data, for ex
 
 [:book: Documentation](https://bayatgames.com/docs/save-game-pro/)
 
+[:rocket: Patreon](https://www.patreon.com/BayatGames)
+
 ---
 
 Made with :heart: by [Bayat Games](https://github.com/BayatGames)
