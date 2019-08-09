@@ -1,6 +1,6 @@
 ![Large Image](https://i.imgur.com/K2x18Fx.png)
 
-| [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/89198?aid=1101l3ncK) | [Support and News](https://github.com/BayatGames/Support) | [Documentation](https://bayatgames.com/docs/save-game-pro/) |
+| [Unity Asset Store](https://www.assetstore.unity3d.com/#!/content/89198?aid=1101l3ncK) | [Support and News](https://github.com/BayatGames/Support) | [Documentation](http://docs.bayat.io/savegamepro) |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------------|
 
 # Save Game Pro
@@ -21,9 +21,7 @@ Save Game Pro has an Elegant and Complete API for controlling saved data, for ex
 
 [:newspaper: Support and News](https://github.com/BayatGames/Support)
 
-[:book: Documentation](https://bayatgames.com/docs/save-game-pro/)
-
-[:rocket: Patreon](https://www.patreon.com/BayatGames)
+[:book: Documentation](http://docs.bayat.io/savegamepro)
 
 ---
 
